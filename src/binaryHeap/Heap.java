@@ -1,8 +1,7 @@
-package BinaryHeap;
+package binaryHeap;
 
 import java.util.*;
 import java.lang.*;
-import java.io.*;
 
 class Heap <T extends Comparable<T> > {
     //arraylist is much better than an array. There is no need to carry about a capacity.

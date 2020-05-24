@@ -1,4 +1,4 @@
-package Huffman;
+package huffman;
 
 import java.io.File;
 import java.io.FileNotFoundException;

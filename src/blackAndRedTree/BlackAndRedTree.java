@@ -1,4 +1,4 @@
-package BlackAndRedTree;
+package blackAndRedTree;
 
 public class BlackAndRedTree {
 
